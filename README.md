@@ -15,13 +15,14 @@ Here are some ideas to get you started:
 -->
 
 <h2>Hi, I'm Nayeon 👋</h2>
-
+<br/>
 
 > <h2> 💭 About me </h2>
 
 + From : Myongji Univ.
 + Contact : skdus728@gmail.com
 + Blog : https://velog.io/@skd
+<br/>
 
 > <h2> 🔗 Tech Stack  </h2> 
 
