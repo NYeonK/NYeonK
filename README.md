@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 + Contact : skdus728@gmail.com
 + Blog : https://velog.io/@skd
 <br/>
-
+<!--
 > <h2> 🔗 Tech Stack  </h2> 
 
   <div>
@@ -35,6 +35,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
   </div>
 <br/>
+-->
   <div >
 
 ![NYeonK's github stats](https://github-readme-stats.vercel.app/api?username=NYeonK&show_icons=true&theme=tokyonight)  
