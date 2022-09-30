@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!--
 
-<h2>Hi, I'm Nayeon 👋</h2>
 <br/>
 
 > <h2> 💭 About me </h2>
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 + Contact : skdus728@gmail.com
 + Blog : https://velog.io/@skd
 <br/>
-<!--
+
 > <h2> 🔗 Tech Stack  </h2> 
 
   <div>
@@ -36,6 +36,9 @@ Here are some ideas to get you started:
   </div>
 <br/>
 -->
+
+<h2>Hi, I'm Nayeon 👋</h2>
+<br/>
   <div >
 
 ![NYeonK's github stats](https://github-readme-stats.vercel.app/api?username=NYeonK&show_icons=true&theme=tokyonight)  
