@@ -37,11 +37,11 @@ Here are some ideas to get you started:
 <br/>
 -->
 
-<h2>Hi, I'm Nayeon 👋</h2>
+<h2 align="center">Hi, I'm Nayeon 👋</h2>
 <br/>
-  <div >
+  <div align="center">
 
-![NYeonK's github stats](https://github-readme-stats.vercel.app/api?username=NYeonK&show_icons=true&theme=tokyonight)  
+![NYeonK's github stats](https://github-readme-stats.vercel.app/api?username=NYeonK&show_icons=true&theme=gruvbox)  
 
   </div>
   
