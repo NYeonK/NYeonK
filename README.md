@@ -3,7 +3,7 @@
 
 <div align="center">
   
-![NYeonK's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?count_private=true&username=NYeonK&show_icons=true&theme=onedark)  
+![NYeonK's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=NYeonK&show_icons=true&theme=onedark)  
 
 </div>
   
